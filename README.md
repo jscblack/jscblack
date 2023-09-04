@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on CDS Lab of RUC (Renmin Univ of China), majoring on master's degree in software engineering.
+- 🌱 I’m currently learning database system, index optimization and etc.
+- 👯 I'm searching for an internship opportunity as a backend development engineer (C++, Go or others).
 <!--
 **jscblack/jscblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
